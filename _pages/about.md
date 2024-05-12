@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a first-year Ph.D. student at the Institute of Network Science and Cyberspace, Tsinghua University. My supervisors are Prof. [Baojun Liu](https://www.liubaojun.org/) and [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). I received my Bachelor's and Master's degrees from Nankai University in 2020 and 2023 respectively. My research interests include Cybercrime, Data-driven Security, and Huaman-centered Security. 
 
 A data-driven personal website
 ======
