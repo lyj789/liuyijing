@@ -13,7 +13,7 @@ I am a first-year Ph.D. student at the Institute of Network Science and Cyberspa
 Publication 
 ======
 
-* **\[USENIX Security 2022\]** [How Are Your Zombie Accounts? Understanding Users' Practices and Expectations on Mobile App Account Deletion]()
+* **\[USENIX Security 2022\]** [How Are Your Zombie Accounts? Understanding Users' Practices and Expectations on Mobile App Account Deletion](../assets/How Are Your Zombie Accounts?Understanding Users’ Practices and Expectations on Mobile App Account Deletion.pdf)
 
   **Yijing Liu**, Yan Jia, Qingyin Tan, Zheli Liu, Luyi Xing
 
