@@ -12,16 +12,13 @@ I am a first-year Ph.D. student at the Institute of Network Science and Cyberspa
 Publication 
 ======
 
-2. \[USENIX Security 2022\] [How Are Your Zombie Accounts? Understanding Users' Practices and Expectations on Mobile App Account Deletion]
-
+* \[USENIX Security 2022\] [How Are Your Zombie Accounts? Understanding Users' Practices and Expectations on Mobile App Account Deletion]
 **Yijing Liu**, Yan Jia, Qingyin Tan, Zheli Liu, Luyi Xing
 
-4. \[CCS 2021\] [Who's In Control? On Security Risks of Disjointed IoT Device Management Channels]()
-
+* \[CCS 2021\] [Who's In Control? On Security Risks of Disjointed IoT Device Management Channels]()
 Yan Jia, Bin Yuan, Luyi Xing, Dongfang Zhao, Yifan Zhang, XiaoFeng Wang, **Yijing Liu**, Kaimin Zheng, Peyton Crnjak, Yuqing Zhang, Deqing Zou, Hai Jin
 
-4. \[VLDB 2021\][Frequency-hiding order-preserving encryption with small client storage]
-
+* \[VLDB 2021\][Frequency-hiding order-preserving encryption with small client storage]
 Dongjie Li, Siyi Lv, Yanyu Huang, **Yijing Liu**, Tong Li, Zheli Liu, Liang Guo
 
 Getting started
