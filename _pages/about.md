@@ -26,12 +26,15 @@ Publication
 
 Educations
 ======
-* 2023.09 - now, Ph.D, Major in Cyberspace Security, Tsinghua University, supervised by Prof. BaojunLiu and Haixin Duan.
-* 2020.09 - 2023.06, Master of Engineering, Major in Cyberspace Security, Nankai University, supervised by Prof. Zheli Liu.
-* 2020.01 - 2020.06, Visiting Scholar, Vrije Universiteit Brussel.
-* 2016.09 - 2020.06, Bachelor of Engineering (Minor in Law), Major in Information Security, Nankai University.
+* \[2023.09 - now\], Ph.D, Major in Cyberspace Security, Tsinghua University, supervised by Prof. BaojunLiu and Haixin Duan.
+* \[2020.09 - 2023.06\], Master of Engineering, Major in Cyberspace Security, Nankai University, supervised by Prof. Zheli Liu.
+* \[2020.01 - 2020.06\], Visiting Scholar, Vrije Universiteit Brussel.
+* \[2016.09 - 2020.06\], Bachelor of Engineering (Minor in Law), Major in Information Security, Nankai University.
 
 
-Misc
+Awards
 ------
-I have persistently practiced dance and rhythmic gymnastics, earning a “national second-level athlete” certificate. My passion extends to a wide array of sports. Let's engage in sports together!
+* \[2023.11\]Chern Prize for New Scholars
+* \[2023.06\]Outstanding Graduate of Nankai University（only 1 graduate student in the college) 
+* \[2023.05\] Zhou Enlai Scholarship (highest student honor in Nankai University) Nomination Award, Nankai University. (20 undergraduate nominees in the school)
+* \[2022.12\]Chinese National Scholarship
