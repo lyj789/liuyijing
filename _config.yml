@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yijing Liu"
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   bio              : "刘一静 in Chinese"
   location         : Beijing,China
   employer         : Tsinghua University
