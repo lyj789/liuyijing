@@ -31,7 +31,7 @@ Educations
 * \[2023.09 - now\], Ph.D, Major in Cyberspace Security, Tsinghua University, supervised by Prof. BaojunLiu and Haixin Duan.
 * \[2020.09 - 2023.06\], Master of Engineering, Major in Cyberspace Security, Nankai University, supervised by Prof. Zheli Liu.
 * \[2020.01 - 2020.06\], Visiting Scholar, Vrije Universiteit Brussel.
-* \[2016.09 - 2020.06\], Bachelor of Engineering (Minor in Law), Major in Information Security, Nankai University.
+* \[2016.09 - 2020.06\], Bachelor of Engineering, Major in Information Security (Minor in Law), Nankai University.
 
 
 Awards
