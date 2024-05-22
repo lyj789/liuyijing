@@ -36,7 +36,7 @@ Educations
 
 Awards
 ------
-* \[2023.11\] Chern Prize for New Scholars（3 graduate student in the college) 
-* \[2023.06\] Outstanding Graduate of Nankai University（only 1 graduate student in the college) 
+* \[2023.11\] Chern Prize for New Scholars 
+* \[2023.06\] Outstanding Graduate of Nankai University
 * \[2023.05\] Zhou Enlai Scholarship (highest student honor in Nankai University) Nomination Award, Nankai University. (20 graduate nominees in the school)
 * \[2022.12\] Chinese National Scholarship
