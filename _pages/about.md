@@ -13,16 +13,16 @@ I am a first-year Ph.D. student at the Institute of Network Science and Cyberspa
 
 Publication 
 ======
-1. **<u>Yijing Liu</u>**, Yiming Zhang, Baojun Liu, Haixin Duan, Qiang Li, Mingxuan Liu, Ruixuan Li, Jia Yao. [Tickets or Privacy? Understand the Ecosystem of Chinese Ticket Grabbing Apps.](coming soon~) **\[USENIX Security 2024\]** 
+1. **Yijing Liu**, Yiming Zhang, Baojun Liu, Haixin Duan, Qiang Li, Mingxuan Liu, Ruixuan Li, Jia Yao. [Tickets or Privacy? Understand the Ecosystem of Chinese Ticket Grabbing Apps.](coming soon~) \[USENIX Security 2024\] 
 
 
-2. **<u>Yijing Liu</u>**, Yan Jia, Qingyin Tan, Zheli Liu, Luyi Xing. [How Are Your Zombie Accounts? Understanding Users' Practices and Expectations on Mobile App Account Deletion](/assets/usenix22.pdf) **\[USENIX Security 2022\]**  
+2. **Yijing Liu**, Yan Jia, Qingyin Tan, Zheli Liu, Luyi Xing. [How Are Your Zombie Accounts? Understanding Users' Practices and Expectations on Mobile App Account Deletion](/assets/usenix22.pdf) \[USENIX Security 2022\]  
 
 
-3. Yan Jia, Bin Yuan, Luyi Xing, Dongfang Zhao, Yifan Zhang, XiaoFeng Wang, **<u>Yijing Liu</u>**, Kaimin Zheng, Peyton Crnjak, Yuqing Zhang, Deqing Zou, Hai Jin. [Who's In Control? On Security Risks of Disjointed IoT Device Management Channels](/assets/ccs21.pdf) **\[CCS 2021\]**
+3. Yan Jia, Bin Yuan, Luyi Xing, Dongfang Zhao, Yifan Zhang, XiaoFeng Wang, **Yijing Liu**, Kaimin Zheng, Peyton Crnjak, Yuqing Zhang, Deqing Zou, Hai Jin. [Who's In Control? On Security Risks of Disjointed IoT Device Management Channels](/assets/ccs21.pdf) \[CCS 2021\]
 
 
-4. Dongjie Li, Siyi Lv, Yanyu Huang, **<u>Yijing Liu</u>**, Tong Li, Zheli Liu, Liang Guo. [Frequency-hiding order-preserving encryption with small client storage](/assets/vldb21.pdf) **\[VLDB 2021\]**
+4. Dongjie Li, Siyi Lv, Yanyu Huang, **Yijing Liu**, Tong Li, Zheli Liu, Liang Guo. [Frequency-hiding order-preserving encryption with small client storage](/assets/vldb21.pdf) \[VLDB 2021\]
 
   
 
