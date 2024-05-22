@@ -13,6 +13,9 @@ I am a first-year Ph.D. student at the Institute of Network Science and Cyberspa
 
 Publication 
 ======
+\[USENIX Security 2024\]  **Yijing Liu**, Yiming Zhang, Baojun Liu, Haixin Duan, Qiang Li, Mingxuan Liu, Ruixuan Li, Jia Yao. [Tickets or Privacy? Understand the Ecosystem of Chinese Ticket Grabbing Apps.]
+
+
 \[USENIX Security 2022\]  **Yijing Liu**, Yan Jia, Qingyin Tan, Zheli Liu, Luyi Xing. [How Are Your Zombie Accounts? Understanding Users' Practices and Expectations on Mobile App Account Deletion](/assets/usenix22.pdf)
 
 
