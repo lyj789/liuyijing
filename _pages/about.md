@@ -52,4 +52,4 @@ Services
 
 Misc
 ======
-RG Girl. Proud to have stayed consistent with my sport.
+RG(Rhythmic Gymnastics) Girl. Proud to have stayed consistent with my sport.
