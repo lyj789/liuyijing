@@ -22,7 +22,7 @@ Publication
 3. Yan Jia, Bin Yuan, Luyi Xing, Dongfang Zhao, Yifan Zhang, XiaoFeng Wang, **Yijing Liu**, Kaimin Zheng, Peyton Crnjak, Yuqing Zhang, Deqing Zou, Hai Jin. [Who's In Control? On Security Risks of Disjointed IoT Device Management Channels](https://dl.acm.org/doi/10.1145/3460120.3484592) \[CCS 2021\]
 
 
-4. Dongjie Li, Siyi Lv, Yanyu Huang, **Yijing Liu**, Tong Li, Zheli Liu, Liang Guo. [Frequency-hiding order-preserving encryption with small client storage](https://vldb.org/pvldb/vol14/p3295-li.pdf) \[VLDB 2021\]
+4. Dongjie Li, Siyi Lv, Yanyu Huang, **Yijing Liu**, Tong Li, Zheli Liu, Liang Guo. [Frequency-hiding order-preserving encryption with small client storage](../assets/vldb21.pdf) \[VLDB 2021\]
 
   
 
