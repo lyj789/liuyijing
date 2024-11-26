@@ -45,10 +45,10 @@ Awards
 
 Services
 ======
-* \[2023，2024] Reviewer of EAI SecureComm
-* \[2024.09-2025.01] TA for Class “Network Protocol Security Design and Analysis”, Tsinghua University
-* \[2024.09-2025.01] TA for Class “Internet Architecture and Its Security Fundamentals”, Tsinghua University
-* \[2024.07] Present at "The PhD Student Forum| Inforsec 2024", Hefei, China
+* \[2023, 2024] Reviewer of EAI SecureComm
+* \[2024.09-2025.01] Teaching Assistant for “Network Protocol Security Design and Analysis”, Tsinghua University
+* \[2024.09-2025.01] Teaching Assistant for “Internet Architecture and Its Security Fundamentals”, Tsinghua University
+* \[2024.07] Present at "The PhD Student Forum (Inforsec 2024)", Hefei, China
 
 Misc
 ======
