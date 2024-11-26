@@ -52,4 +52,4 @@ Services
 
 Misc
 ======
-* \[2004 - now\] Rhythmic Gymnastics Enthusiast. Proud to have maintained a passion for this beautiful sport.
+* \[2004 - now\] Rhythmic Gymnastics Enthusiast. Proud to have maintained my passion for this beautiful sport.
