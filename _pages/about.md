@@ -28,15 +28,28 @@ Publication
 
 Educations
 ======
-* \[2023.09 - now\], Ph.D, Major in Cyberspace Security, Tsinghua University, supervised by Prof. BaojunLiu and Haixin Duan.
+* \[2023.09 - now\], Ph.D of Engineering, Major in Cyberspace Security, Tsinghua University, supervised by Prof. BaojunLiu and Haixin Duan.
 * \[2020.09 - 2023.06\], Master of Engineering, Major in Cyberspace Security, Nankai University, supervised by Prof. Zheli Liu.
 * \[2020.01 - 2020.06\], Visiting Scholar, Vrije Universiteit Brussel.
 * \[2016.09 - 2020.06\], Bachelor of Engineering, Major in Information Security (Minor in Law), Nankai University.
 
 
 Awards
-------
+======
+* \[2024.11\] The 1st Class Outstanding Scholarship, Tsinghua University
 * \[2023.11\] Chern Prize for New Scholars 
 * \[2023.06\] Outstanding Graduate of Nankai University
 * \[2023.05\] Zhou Enlai Scholarship (highest student honor in Nankai University) Nomination Award, Nankai University. (20 graduate nominees in the school)
 * \[2022.12\] Chinese National Scholarship
+
+
+Services
+======
+* \[2023，2024] Reviewer of EAI SecureComm
+* \[2024.09-2025.01] TA for Class “Network Protocol Security Design and Analysis”, Tsinghua University
+* \[2024.09-2025.01] TA for Class “Internet Architecture and Its Security Fundamentals”, Tsinghua University
+* \[2024.07] Present at "The PhD Student Forum| Inforsec 2024", Hefei, China
+
+Misc
+======
+RG Girl. Proud to have stayed consistent with my sport.
