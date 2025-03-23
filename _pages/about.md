@@ -13,7 +13,7 @@ I am a second-year Ph.D. student (Ph.D. candidate) at the Institute of Network S
 
 Publication 
 ======
-1. **Yijing Liu**, Mingxuan Liu, Yiming Zhang, Baojun Liu, Jia Zhang, Geng Hong, Haixin Duan, Min Yang. [Dive into the cloud: Unveiling the (Ab)usage of Serverless  Cloud Function in the Wild]()(coming soon) \[IMC 2025\]
+<!-- 1. **Yijing Liu**, Mingxuan Liu, Yiming Zhang, Baojun Liu, Jia Zhang, Geng Hong, Haixin Duan, Min Yang. [Dive into the cloud: Unveiling the (Ab)usage of Serverless  Cloud Function in the Wild]()(coming soon) \[IMC 2025\]-->
    
 2. **Yijing Liu**, Yiming Zhang, Baojun Liu, Haixin Duan, Qiang Li, Mingxuan Liu, Ruixuan Li, Jia Yao. [Tickets or Privacy? Understand the Ecosystem of Chinese Ticket Grabbing Apps](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yijing) \[USENIX Security 2024\] 
 
