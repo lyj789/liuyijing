@@ -46,12 +46,18 @@ Awards
 * \[2022.12\] Chinese National Scholarship
 
 
-Services
+Academic Services
 ======
 * \[2023, 2024\] Reviewer of EAI SecureComm
-* \[2024.09 - 2025.01\] Teaching Assistant for “Network Protocol Security Design and Analysis”, Tsinghua University
-* \[2024.09 - 2025.01\] Teaching Assistant for “Internet Architecture and Its Security Fundamentals”, Tsinghua University
+* \[2024.12\] Present at "The 7th Graduate Student Academic Forum of the Institute of Network Sciences and Cyberspace", Beijing, China
 * \[2024.07\] Present at "The PhD Student Forum (Inforsec 2024)", Hefei, China
+  
+
+Teaching Experience
+======
+* \[2025.02 - 2025.06\] Teaching Assistant for "Network Security Technology", Tsinghua University
+* \[2024.09 - 2025.01\] Teaching Assistant for "Network Protocol Security Design and Analysis", Tsinghua University
+* \[2024.09 - 2025.01\] Teaching Assistant for "Internet Architecture and Its Security Fundamentals", Tsinghua University
 
 Misc
 ======
