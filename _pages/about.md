@@ -50,8 +50,13 @@ Academic Services
 ======
 * \[2024] The DataCon Big Data Security Analysis Competition, Technical Committee Member
 * \[2023, 2024\] EAI SecureComm, External Reviewer
-* \[2024.12\] Present at "The 7th Graduate Student Academic Forum of the Institute of Network Sciences and Cyberspace", Beijing, China
-* \[2024.07\] Present at "The PhD Student Forum (Inforsec 2024)", Hefei, China
+
+Presentations
+====== 
+* \[2024.12\] The 7th Academic Forum of the Institute of Network Sciences and Cyberspace, Tsinghua University, China
+* \[2024.08\] The 33rd USENIX Security Symposium, Philadelphia, PA, USA
+* \[2024.07\] The PhD Student Forum in InForSec 2024, Hefei, Anhui, China
+* \[2022.08\]The 31st USENIX Security Symposium, Boston, MA, USA (online)
   
 
 Teaching Experience
