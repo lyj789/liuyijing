@@ -8,7 +8,7 @@ redirect_from:
 ---
 Biography 
 ======
-I am a second-year Ph.D. student (Ph.D. candidate) at the Institute of Network Science and Cyberspace, Tsinghua University. My supervisors are Prof. [Baojun Liu](https://www.liubaojun.org/) and [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). I received my Bachelor's and Master's degrees from Nankai University in 2020 and 2023 respectively. My research interests include Cybercrime, Data-driven Security, and Huaman-centered Security. 
+I am a third-year Ph.D. student (Ph.D. candidate) at the Institute of Network Science and Cyberspace, Tsinghua University. My supervisors are Prof. [Baojun Liu](https://www.liubaojun.org/) and [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). I received my Bachelor's and Master's degrees from Nankai University in 2020 and 2023 respectively. My research interests include Cybercrime, Data-driven Security, and Huaman-centered Security. 
 
 
 Publication 
@@ -48,7 +48,8 @@ Awards
 
 Academic Services
 ======
-* \[2023, 2024\] Reviewer of EAI SecureComm
+* \[2024] The DataCon Big Data Security Analysis Competition, Technical Committee Member
+* \[2023, 2024\] EAI SecureComm, External Reviewer
 * \[2024.12\] Present at "The 7th Graduate Student Academic Forum of the Institute of Network Sciences and Cyberspace", Beijing, China
 * \[2024.07\] Present at "The PhD Student Forum (Inforsec 2024)", Hefei, China
   
