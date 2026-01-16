@@ -55,6 +55,7 @@ Academic Services
 
 Presentations
 ====== 
+* \[2025.11\] The 2025 Internet Measurement Conference, Madison, Wisconsin, USA
 * \[2024.12\] The 7th Academic Forum of the Institute of Network Sciences and Cyberspace, Tsinghua University, China
 * \[2024.08\] The 33rd USENIX Security Symposium, Philadelphia, PA, USA
 * \[2024.07\] The PhD Student Forum in InForSec 2024, Hefei, Anhui, China
