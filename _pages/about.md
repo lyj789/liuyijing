@@ -8,7 +8,9 @@ redirect_from:
 ---
 Biography 
 ======
-I am a third-year Ph.D. student (Ph.D. candidate) at the Institute of Network Science and Cyberspace, Tsinghua University. My supervisors are Prof. [Baojun Liu](https://www.liubaojun.org/) and [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). I received my Bachelor's and Master's degrees from Nankai University in 2020 and 2023 respectively. My research interests include Cybercrime, Data-driven Security, and Human-centered Security. 
+I am a third-year Ph.D. student (Ph.D. candidate) at the Institute of Network Science and Cyberspace, Tsinghua University. My supervisors are Prof. [Liu Baojun](https://www.liubaojun.org/) and [Duan Haixin](https://netsec.ccert.edu.cn/people/duanhx/). I received my Bachelor's and Master's degrees from Nankai University in 2020 and 2023 respectively. My research interests include Cybercrime, Data-driven Security, and Human-centered Security. 
+
+I am currently a visiting researcher at Nanyang Technological University (NTU), hosted by Prof. Wang Xiaofeng, starting from Feb 2026.
 
 
 Publication 
