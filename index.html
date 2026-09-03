@@ -5,13 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Ph.D. candidate at Tsinghua University working on cybercrime, data-driven security, and human-centered security.">
   <meta name="color-scheme" content="light dark">
-  <title>Yijing Liu | Personal Homepage</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,600;6..72,700&display=swap">
+  <title>Yijing Liu, Ph.D. Candidate at Tsinghua University</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/academicons.min.css">
-  <link rel="stylesheet" href="css/custom.css">
+  <link rel="stylesheet" href="css/custom.css?v=20260903-template">
 </head>
 <body>
   <button class="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
@@ -25,36 +22,42 @@
 
   <main class="container">
     <aside class="sidebar">
-      <div class="sidebar-content">
-        <div class="profile-photo">
-          <img src="images/profile2.png" alt="Yijing Liu">
-          <div class="social-links">
-            <a href="mailto:liu-yj23@mails.tsinghua.edu.cn" aria-label="Email"><i class="fa fa-envelope-square fa-2x"></i></a>
-            <a href="https://scholar.google.com.hk/citations?user=FVekSrwAAAAJ" aria-label="Google Scholar"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-          </div>
-        </div>
-        <h1 class="name">Yijing Liu<br><span class="chinese">刘一静</span></h1>
-        <p class="affiliation">Ph.D. Candidate<br>Tsinghua University</p>
-        <nav class="sidebar-nav">
-          <p class="sidebar-nav-label">Contents</p>
-          <a href="#biography">About</a>
-          <a href="#publications">Publications</a>
-          <a href="#education">Education</a>
-          <a href="#awards">Awards</a>
-          <a href="#services">Academic Services</a>
-          <a href="#presentations">Presentations</a>
-          <a href="#teaching">Teaching</a>
-          <a href="#misc">Misc</a>
-        </nav>
+      <div class="profile-photo">
+        <img src="images/profile2.png" alt="Yijing Liu" width="180" height="180">
+      </div>
+      <h1 class="name">Yijing Liu <span class="chinese">刘一静</span></h1>
+      <p class="affiliation">Ph.D. Candidate<br>Tsinghua University</p>
+      <p class="profile-location"><i class="fa fa-map-marker" aria-hidden="true"></i> Beijing, China</p>
+      <div class="profile-links">
+        <button class="profile-link" id="copy-email" type="button" title="Copy liu-yj23@mails.tsinghua.edu.cn">
+          <i class="fa fa-envelope-o" aria-hidden="true"></i>
+          <span aria-live="polite">Email</span>
+        </button>
+        <a class="profile-link" aria-label="Google Scholar" href="https://scholar.google.com.hk/citations?user=FVekSrwAAAAJ">
+          <i class="ai ai-google-scholar" aria-hidden="true"></i>
+          Scholar
+        </a>
       </div>
     </aside>
 
     <div class="main-content">
+      <nav class="top-nav" aria-label="Main navigation">
+        <a href="#biography">About Me</a>
+        <a href="#news">News</a>
+        <a href="#publications">Publications</a>
+        <a href="#education">Education</a>
+        <a href="#awards">Awards</a>
+        <a href="#services">Services</a>
+        <a href="#presentations">Presentations</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#misc">Misc</a>
+      </nav>
+
       <section id="biography" class="section">
-        <h2 class="section-title">Biography</h2>
+        <h2 class="section-title">About Me</h2>
         <p>I am a final-year Ph.D. student (Ph.D. candidate) at the Institute of Network Science and Cyberspace, <a href="https://www.insc.tsinghua.edu.cn/">Tsinghua University</a>, advised by Prof. <a href="https://www.liubaojun.org/">Liu Baojun</a> and <a href="https://netsec.ccert.edu.cn/people/duanhx/">Duan Haixin</a>.</p>
         <p>I received my Bachelor's and Master's degrees from Nankai University in 2020 and 2023 respectively.</p>
-        <p>My research interests lie in:</p>
+        <h3 class="section-subtitle">Research Interests</h3>
         <ul class="bio-interests">
           <li><span class="highlight">Cybercrime</span>: understanding underground ecosystems and illicit digital markets.</li>
           <li><span class="highlight">Data-driven Security</span>: measuring security problems in the wild through empirical analysis.</li>
@@ -64,34 +67,48 @@
         <p>I am currently a visiting researcher at Nanyang Technological University (NTU), hosted by Prof. <a href="https://wangxiaofeng7.github.io/">Xiaofeng Wang</a>, starting from Feb 2026.</p>
       </section>
 
+      <section id="news" class="section">
+        <h2 class="section-title">News</h2>
+        <div class="news-item">
+          <span class="news-date">2026-02</span>
+          <span class="news-text">Started as a visiting researcher at Nanyang Technological University (NTU), hosted by Prof. <a href="https://wangxiaofeng7.github.io/">Xiaofeng Wang</a>.</span>
+        </div>
+        <div class="news-item">
+          <span class="news-date">2025-11</span>
+          <span class="news-text">Presented our IMC 2025 paper on serverless cloud function abuse in Madison, Wisconsin, USA.</span>
+        </div>
+        <div class="news-item">
+          <span class="news-date">2024-08</span>
+          <span class="news-text">Presented our USENIX Security 2024 paper on Chinese ticket grabbing apps in Philadelphia, Pennsylvania, USA.</span>
+        </div>
+      </section>
+
       <section id="publications" class="section">
-        <p class="section-label">Research</p>
         <h2 class="section-title">Publications</h2>
-        <h3 class="section-subtitle">Conference Papers</h3>
 
         <div class="pub-entry">
-          <div class="pub-venue">[NDSS '27]</div>
           <div class="pub-details">
-            <div class="pub-title">Marketplace Chameleons: Demystifying the Scam Ecosystem of Second-Hand Online Platforms</div>
+            <h3 class="pub-title">Marketplace Chameleons: Demystifying the Scam Ecosystem of Second-Hand Online Platforms</h3>
+            <div class="pub-venue">NDSS 2027</div>
             <div class="pub-authors"><span class="me">Yijing Liu</span>, Zilong Lin, Xiaofeng Wang, Baojun Liu, Haixin Duan</div>
           </div>
         </div>
 
         <div class="pub-entry">
-          <div class="pub-venue">[USENIX Security '26]</div>
           <div class="pub-details">
-            <div class="pub-title">Cracks in the Walled Garden: Dissecting the Gray-Market of Unauthorized iOS App Distribution via Ad Hoc Sideloading</div>
+            <h3 class="pub-title"><a href="papers/usenix26-ios.pdf">Cracks in the Walled Garden: Dissecting the Gray-Market of Unauthorized iOS App Distribution via Ad Hoc Sideloading</a></h3>
+            <div class="pub-venue">USENIX Security 2026</div>
             <div class="pub-authors"><span class="me">Yijing Liu</span>, Yiming Zhang, Baojun Liu, Haixin Duan</div>
             <div class="pub-links">
-              <a href="papers/usenix26-ios.pdf">PDF</a> 
+              <a href="papers/usenix26-ios.pdf">PDF</a>
             </div>
           </div>
         </div>
 
         <div class="pub-entry">
-          <div class="pub-venue">[IMC '25]</div>
           <div class="pub-details">
-            <div class="pub-title">Dive into the cloud: Unveiling the (Ab)usage of Serverless Cloud Function in the Wild</div>
+            <h3 class="pub-title"><a href="papers/imc25-serverless.pdf">Dive into the Cloud: Unveiling the (Ab)usage of Serverless Cloud Function in the Wild</a></h3>
+            <div class="pub-venue">IMC 2025</div>
             <div class="pub-authors"><span class="me">Yijing Liu</span>, Mingxuan Liu, Yiming Zhang, Baojun Liu, Jia Zhang, Geng Hong, Haixin Duan, Min Yang</div>
             <div class="pub-links">
               <a href="papers/imc25-serverless.pdf">PDF</a> /
@@ -101,34 +118,34 @@
         </div>
 
         <div class="pub-entry">
-          <div class="pub-venue">[USENIX Security '24]</div>
           <div class="pub-details">
-            <div class="pub-title">Tickets or Privacy? Understand the Ecosystem of Chinese Ticket Grabbing Apps</div>
+            <h3 class="pub-title"><a href="papers/usenixsecurity24-liu-yijing.pdf">Tickets or Privacy? Understand the Ecosystem of Chinese Ticket Grabbing Apps</a></h3>
+            <div class="pub-venue">USENIX Security 2024</div>
             <div class="pub-authors"><span class="me">Yijing Liu</span>, Yiming Zhang, Baojun Liu, Haixin Duan, Qiang Li, Mingxuan Liu, Ruixuan Li, Jia Yao</div>
             <div class="pub-links">
               <a href="papers/usenixsecurity24-liu-yijing.pdf">PDF</a> /
-              <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yijing">Presentation</a>
+              <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yijing">PPT</a>
             </div>
           </div>
         </div>
 
         <div class="pub-entry">
-          <div class="pub-venue">[USENIX Security '22]</div>
           <div class="pub-details">
-            <div class="pub-title">How Are Your Zombie Accounts? Understanding Users' Practices and Expectations on Mobile App Account Deletion</div>
+            <h3 class="pub-title"><a href="papers/sec22-liu-yijing.pdf">How Are Your Zombie Accounts? Understanding Users' Practices and Expectations on Mobile App Account Deletion</a></h3>
+            <div class="pub-venue">USENIX Security 2022</div>
             <div class="pub-authors"><span class="me">Yijing Liu</span>, Yan Jia, Qingyin Tan, Zheli Liu, Luyi Xing</div>
             <div class="pub-links">
               <a href="papers/sec22-liu-yijing.pdf">PDF</a> /
-              <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/liu-yijing">Presentation</a>
+              <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/liu-yijing">PPT</a>
             </div>
           </div>
         </div>
 
         <div class="pub-entry">
-          <div class="pub-venue">[CCS '21]</div>
           <div class="pub-details">
-            <div class="pub-title">Who's In Control? On Security Risks of Disjointed IoT Device Management Channels</div>
-            <div class="pub-authors">Yan Jia, Bin Yuan, Luyi Xing, Dongfang Zhao, Yifan Zhang, XiaoFeng Wang, <span class="me">Yijing Liu</span>, Kaimin Zheng, Peyton Crnjak, Yuqing Zhang, Deqing Zou, Hai Jin</div>
+            <h3 class="pub-title"><a href="papers/CCS_21.pdf">Who's In Control? On Security Risks of Disjointed IoT Device Management Channels</a></h3>
+            <div class="pub-venue">CCS 2021</div>
+            <div class="pub-authors">Yan Jia, Bin Yuan, Luyi Xing, Dongfang Zhao, Yifan Zhang, Xiaofeng Wang, <span class="me">Yijing Liu</span>, Kaimin Zheng, Peyton Crnjak, Yuqing Zhang, Deqing Zou, Hai Jin</div>
             <div class="pub-links">
               <a href="papers/CCS_21.pdf">PDF</a> /
               <a href="https://dl.acm.org/doi/10.1145/3460120.3484592">DOI</a>
@@ -137,9 +154,9 @@
         </div>
 
         <div class="pub-entry">
-          <div class="pub-venue">[VLDB '21]</div>
           <div class="pub-details">
-            <div class="pub-title">Frequency-hiding order-preserving encryption with small client storage</div>
+            <h3 class="pub-title"><a href="papers/vldb21-fh-ope.pdf">Frequency-hiding Order-preserving Encryption with Small Client Storage</a></h3>
+            <div class="pub-venue">VLDB 2021</div>
             <div class="pub-authors">Dongjie Li, Siyi Lv, Yanyu Huang, <span class="me">Yijing Liu</span>, Tong Li, Zheli Liu, Liang Guo</div>
             <div class="pub-links">
               <a href="papers/vldb21-fh-ope.pdf">PDF</a> /
@@ -150,32 +167,30 @@
       </section>
 
       <section id="education" class="section">
-        <p class="section-label">Background</p>
         <h2 class="section-title">Education</h2>
         <div class="item-row">
           <span class="item-date">2023.09 - now</span>
-          <span class="item-content"><strong>Tsinghua University</strong>, Beijing, China — Ph.D. of Engineering in Cyberspace Security</span>
+          <span class="item-content"><strong>Tsinghua University</strong>, Beijing, China - Ph.D. of Engineering in Cyberspace Security</span>
         </div>
         <div class="item-row">
           <span class="item-date">2026.02 - 2026.08</span>
-          <span class="item-content"><strong>Nanyang Technological University</strong>, Singapore — Visiting Scholar</span>
+          <span class="item-content"><strong>Nanyang Technological University</strong>, Singapore - Visiting Scholar</span>
         </div>
         <div class="item-row">
           <span class="item-date">2020.09 - 2023.06</span>
-          <span class="item-content"><strong>Nankai University</strong>, Tianjin, China — Master of Engineering in Cyberspace Security</span>
+          <span class="item-content"><strong>Nankai University</strong>, Tianjin, China - Master of Engineering in Cyberspace Security</span>
         </div>
         <div class="item-row">
           <span class="item-date">2020.01 - 2020.06</span>
-          <span class="item-content"><strong>Vrije Universiteit Brussel</strong>, Brussels, Belgium — Visiting Scholar</span>
+          <span class="item-content"><strong>Vrije Universiteit Brussel</strong>, Brussels, Belgium - Visiting Scholar</span>
         </div>
         <div class="item-row">
           <span class="item-date">2016.09 - 2020.06</span>
-          <span class="item-content"><strong>Nankai University</strong>, Tianjin, China — Bachelor of Engineering in Information Security (Minor in Law)</span>
+          <span class="item-content"><strong>Nankai University</strong>, Tianjin, China - Bachelor of Engineering in Information Security (Minor in Law)</span>
         </div>
       </section>
 
       <section id="awards" class="section">
-        <p class="section-label">Recognition</p>
         <h2 class="section-title">Awards</h2>
         <div class="item-row">
           <span class="item-date">2024.11</span>
@@ -200,24 +215,22 @@
       </section>
 
       <section id="services" class="section">
-        <p class="section-label">Community</p>
         <h2 class="section-title">Academic Services</h2>
         <div class="item-row">
           <span class="item-date">2026</span>
-          <span class="item-content">Empirical Software Engineering — External Reviewer</span>
+          <span class="item-content">Empirical Software Engineering - External Reviewer</span>
         </div>
         <div class="item-row">
           <span class="item-date">2024</span>
-          <span class="item-content">The DataCon Big Data Security Analysis Competition — Technical Committee Member</span>
+          <span class="item-content">The DataCon Big Data Security Analysis Competition - Technical Committee Member</span>
         </div>
         <div class="item-row">
           <span class="item-date">2023, 2024</span>
-          <span class="item-content">EAI SecureComm — External Reviewer</span>
+          <span class="item-content">EAI SecureComm - External Reviewer</span>
         </div>
       </section>
 
       <section id="presentations" class="section">
-        <p class="section-label">Talks</p>
         <h2 class="section-title">Presentations</h2>
         <div class="item-row">
           <span class="item-date">2025.11</span>
@@ -242,24 +255,22 @@
       </section>
 
       <section id="teaching" class="section">
-        <p class="section-label">Teaching</p>
-        <h2 class="section-title">Teaching Experience</h2>
+        <h2 class="section-title">Teaching</h2>
         <div class="item-row">
           <span class="item-date">2025.02 - 2025.06</span>
-          <span class="item-content"><strong>Network Security Technology</strong>, Tsinghua University — Teaching Assistant</span>
+          <span class="item-content"><strong>Network Security Technology</strong>, Tsinghua University - Teaching Assistant</span>
         </div>
         <div class="item-row">
           <span class="item-date">2024.09 - 2025.01</span>
-          <span class="item-content"><strong>Network Protocol Security Design and Analysis</strong>, Tsinghua University — Teaching Assistant</span>
+          <span class="item-content"><strong>Network Protocol Security Design and Analysis</strong>, Tsinghua University - Teaching Assistant</span>
         </div>
         <div class="item-row">
           <span class="item-date">2024.09 - 2025.01</span>
-          <span class="item-content"><strong>Internet Architecture and Its Security Fundamentals</strong>, Tsinghua University — Teaching Assistant</span>
+          <span class="item-content"><strong>Internet Architecture and Its Security Fundamentals</strong>, Tsinghua University - Teaching Assistant</span>
         </div>
       </section>
 
       <section id="misc" class="section">
-        <p class="section-label">Personal</p>
         <h2 class="section-title">Misc</h2>
         <div class="item-row">
           <span class="item-date">2004 - now</span>
@@ -268,12 +279,21 @@
       </section>
 
       <footer class="footer">
-        <p>Last updated: 2026-05-01</p>
+        <p>Last updated: 2026-09-03</p>
       </footer>
     </div>
   </main>
 
   <script>
+    document.getElementById('copy-email').addEventListener('click', async function () {
+      try {
+        await navigator.clipboard.writeText('liu-yj23@mails.tsinghua.edu.cn');
+        this.querySelector('span').textContent = 'Copied!';
+      } catch (error) {
+        this.querySelector('span').textContent = 'Email';
+      }
+    });
+
     (function() {
       const toggle = document.querySelector('.theme-toggle');
       const body = document.body;
@@ -316,7 +336,7 @@
     })();
 
     (function() {
-      const navLinks = Array.from(document.querySelectorAll('.sidebar-nav a'));
+      const navLinks = Array.from(document.querySelectorAll('.top-nav a'));
       const sections = navLinks
         .map(link => document.querySelector(link.getAttribute('href')))
         .filter(Boolean);
