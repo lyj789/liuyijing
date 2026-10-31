@@ -299,7 +299,8 @@ button.profile-link {
   gap: 8px;
   margin-bottom: 4px;
   font-size: 17px;
-  color: var(--muted);
+  font-weight: 700;
+  color: var(--blue);
 }
 
 .pub-authors {
